@@ -2,9 +2,9 @@
 h1 {  font weigth: bolder;
    }
 </style>
-<H1>
+<h1>
   <p>HOJE CRIEI O MEU PRIMEIRO SITE!</p>
-</H1>
+</h1>
 <h2>
   <p>Quero compartilhar com vocês o meu primeiro site, criado para o exercício final do módulo 2 de HTML5+css3.</p>
 <p>Criei o passo a passo de como fiz o site usando meus conhecimentos que aprendi até agora.</p>
@@ -13,6 +13,5 @@ h1 {  font weigth: bolder;
 <h3>SLIDE COM O PASSO-A-PASSO DO PROCESSO:</h3>
 <picture>
 <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/dd608a47-e49f-4d90-a3ee-c9eda06ba3e3" />
-<img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/79206f28-71c1-401e-bc01-6310a218eba5" />
-<img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/c8c88c71-2121-4df2-8f01-e668f50631d5" />
+<img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/9d4c0f4c-1916-476f-b1ee-13a039f72910" />
 </picture>
