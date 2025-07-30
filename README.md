@@ -4,18 +4,18 @@
       <p>Criei o passo a passo de como fiz o site usando meus conhecimentos que aprendi até agora.</p>
       <p>Obs: As informações contidas nele são verídicas, houve uma pesquisa onde eu coloquei links, vídeos, fotos e textos de informações reais disponíveis na internet.</p
    <h2>SLIDE COM O PASSO-A-PASSO DO PROCESSO:</h2>
-      <picture>
-         <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/dd608a47-e49f-4d90-a3ee-c9eda06ba3e3" />   
-         <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/a5736c51-a236-4234-b9f3-b34f7689d7d1" />
-         <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/a5736c51-a236-4234-b9f3-b34f7689d7d1" />
-         <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/304fb91f-4caf-485f-a5cd-d7f9453189b2" />
-         <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/c6dd1f48-b04b-4098-bb65-85125e29a72a" />
-         <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/b003c268-b28a-411c-b434-74b4d336636d" />
-         <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/a3053c9f-906b-4197-a734-f2252a8b348b" />
-         <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/fd1acb0d-3a0f-4362-af94-01756cd7387b" />
-         <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/cdddb6c2-0e69-4284-a97c-61d5254a2350" />
-         <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/d86826c5-4654-4ed9-aab5-92e5159d7581" />
-      </picture>
+   <picture>
+<img width="751" height="417" alt="slide1" src="https://github.com/user-attachments/assets/c848b72a-c0b8-46cd-8f1f-04975bb2b434" />
+<img width="751" height="417" alt="slide2" src="https://github.com/user-attachments/assets/517e9726-95ca-4855-a250-477093d769d1" />
+<img width="751" height="417" alt="slide3" src="https://github.com/user-attachments/assets/e4647c9b-f6f1-48d5-a8e5-b04b49357d28" />
+<img width="751" height="417" alt="slide4" src="https://github.com/user-attachments/assets/e26a8283-8c1f-4b78-a335-34ffac92e9de" />
+<img width="751" height="417" alt="slide5" src="https://github.com/user-attachments/assets/4ead36c2-503a-4bf4-a9dc-6c70cecad54b" />
+<img width="751" height="417" alt="slide6" src="https://github.com/user-attachments/assets/1aabea77-7d42-4e74-a637-2b06130cff5c" />
+<img width="751" height="417" alt="slide7" src="https://github.com/user-attachments/assets/72ce0d96-fce1-41f3-b020-5e51cb86e311" />
+<img width="751" height="417" alt="slide8" src="https://github.com/user-attachments/assets/d7ef7539-6eb1-49be-9917-421b247139ff" />
+<img width="751" height="417" alt="slide9" src="https://github.com/user-attachments/assets/64eee763-308f-4088-8e04-6fb2b3fd6785" />
+<img width="751" height="417" alt="slide10" src="https://github.com/user-attachments/assets/76d6a1f3-d0e6-4fab-9c6e-11de634f84f6" />
+   </picture>
    <h2>
       <style>
  {  font-weigth: bolder; }
