@@ -6,7 +6,7 @@
    <h2>SLIDE COM O PASSO-A-PASSO DO PROCESSO:</h2>
    <picture>
 <img width="751" height="417" alt="slide1" src="https://github.com/user-attachments/assets/c848b72a-c0b8-46cd-8f1f-04975bb2b434" />
-<img width="751" height="417" alt="slide2" src="https://github.com/user-attachments/assets/517e9726-95ca-4855-a250-477093d769d1" />
+<img width="751" height="417" alt="slide2" src="https://github.com/user-attachments/assets/0a2b1bca-f866-426b-8069-524415f88dd6" />
 <img width="751" height="417" alt="slide3" src="https://github.com/user-attachments/assets/e4647c9b-f6f1-48d5-a8e5-b04b49357d28" />
 <img width="751" height="417" alt="slide4" src="https://github.com/user-attachments/assets/e26a8283-8c1f-4b78-a335-34ffac92e9de" />
 <img width="751" height="417" alt="slide5" src="https://github.com/user-attachments/assets/4ead36c2-503a-4bf4-a9dc-6c70cecad54b" />
