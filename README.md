@@ -21,6 +21,8 @@
    <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/dd608a47-e49f-4d90-a3ee-c9eda06ba3e3" />
    
    <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/a5736c51-a236-4234-b9f3-b34f7689d7d1" />
+ 
+   <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/a5736c51-a236-4234-b9f3-b34f7689d7d1" />
 
    <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/304fb91f-4caf-485f-a5cd-d7f9453189b2" />
 
@@ -37,5 +39,8 @@
    <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/d86826c5-4654-4ed9-aab5-92e5159d7581" />
 
 </picture>
-   
+
+<a>
+   [confira:](https://luana-mozer.github.io/PROJETO_01_Meu_Primeiro_Site) <https://luana-mozer.github.io/PROJETO_01_Meu_Primeiro_Site/>
+</a>
 </body>
