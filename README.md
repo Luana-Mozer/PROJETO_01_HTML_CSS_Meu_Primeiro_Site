@@ -11,5 +11,5 @@ h1 {  font weigth: bolder; }
 <h2>SLIDE COM O PASSO-A-PASSO DO PROCESSO:</h2>
 <picture>
 <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/dd608a47-e49f-4d90-a3ee-c9eda06ba3e3" />
-  
+  <img width="751" height="417" alt="Image" src="https://github.com/user-attachments/assets/79206f28-71c1-401e-bc01-6310a218eba5" />
 </picture>
