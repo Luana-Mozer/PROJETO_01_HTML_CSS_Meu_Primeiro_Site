@@ -2,7 +2,7 @@
   Quero compartilhar com vocês o meu primeiro site, criado para o exercício final do módulo 2 de HTML5+css3.
   Criei o passo a passo de como fiz o site usando meus conhecimentos que aprendi até agora.
   Obs: As informações contidas nele são verídicas, houve uma pesquisa onde eu coloquei links, vídeos, fotos e textos de informações reais disponíveis na internet.
-   [CONFIRA O SITE](https://luana-mozer.github.io/PROJETO_01_Meu_Primeiro_Site/)                                                                                                                                                              
+   [CONFIRA O SITE]([https://luana-mozer.github.io/PROJETO_01_Meu_Primeiro_Site/](https://luana-mozer.github.io/PROJETO_01_HTML_CSS_Meu_Primeiro_Site/))                                                                                                                                                              
    ## SLIDE COM O PASSO-A-PASSO DO PROCESSO:</h2>
 
 <img width="751" height="417" alt="slide1" src="https://github.com/user-attachments/assets/c848b72a-c0b8-46cd-8f1f-04975bb2b434" />
